@@ -1,4 +1,6 @@
-### study-of-basic-gates
+### Name: POOJA P
+### Register number: 212224230195
+### EX NO:1 STUDY OF BASIC GATES
 
 **AIM:** 
 
@@ -63,12 +65,6 @@ Y= A⊕B
 
 
 **PROGRAM**
-
-Program for logic gates and verify its truth table in quartus using Verilog programming
-
-Developed by: POOJA P
-
-RegisterNumber: 212224230195
 
 ![image](https://github.com/user-attachments/assets/1f2474f4-29ee-465c-a4f0-3eea3e9594cb)
 
